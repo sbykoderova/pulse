@@ -1,3 +1,3 @@
 # Pulse
-## Landing page "Сайт по подбору пульсометра"
+## Landing page "Подбор пульсометра"
 ### Демо: https://sbykoderova.github.io/Pulse/
